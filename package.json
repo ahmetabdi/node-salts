@@ -1,0 +1,14 @@
+{
+  "name"         : "node-web-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape.",
+  "main"         : "app.js",
+  "author"       : "Ahmet",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "osmosis"    : "latest",
+    "node-json-db"   : "latest"
+  }
+}
